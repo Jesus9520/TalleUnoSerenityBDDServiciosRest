@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Consumir recurso Regres","usuario no registrado","SUCCESS","2022-03-27T20:51:05.423-05:00[America/Bogota]","0.0","0.03"
+"Consumir recurso Regres","Usuario registrado","SUCCESS","2022-03-27T21:09:36.393-05:00[America/Bogota]","0.0","9.72"
+"Consumir recurso Regres","Usuario no encontrado","SUCCESS","2022-03-27T21:09:46.132-05:00[America/Bogota]","0.0","0.51"
+"Consumir recurso pokeapi","Pokemon registrado","SUCCESS","2022-03-27T22:35:58.663-05:00[America/Bogota]","0.0","12.0"
+"Consumir recurso pokeapi","Recurso no encontrado","SUCCESS","2022-03-27T22:36:10.684-05:00[America/Bogota]","0.0","0.41"
